@@ -8,7 +8,7 @@ const Home = () => {
             <div className="size-7 bg-blue-400 rounded-full" />
             <span className="text-lg font-medium">{person}</span>
             <div className="size-6 bg-red-500 text-white flex items-center justify-center rounded-full">
-              <span>{index}</span>
+              <span>{index}text</span>
             </div>
           </div>
         ))}
